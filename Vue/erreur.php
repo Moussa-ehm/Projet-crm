@@ -1,1 +1,0 @@
-<p>Une erreur est survenue : <?= $this->nettoyer($msgErreur) ?></p>
